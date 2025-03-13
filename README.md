@@ -24,7 +24,7 @@ Plugin de WordPress que permite personalizar la página de inicio de sesión, re
 3. **Activa el Plugin:**
    - Ve al panel de administración de WordPress.
    - Dirígete a **Plugins > Plugins instalados**.
-   - Activa el plugin **Custom Login Styles**.
+   - Activa el plugin **Login Styler**.
 
 4. **Configura el Logo Personalizado:**
    - Sube tu imagen de logo personalizada dentro de la carpeta `assets/images/` en el directorio del plugin.
