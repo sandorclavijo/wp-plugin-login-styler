@@ -32,7 +32,7 @@ Plugin de WordPress que permite personalizar la página de inicio de sesión, re
 
 ## Personalización
 
-- Puedes modificar los colores y estilos de la página de inicio de sesión directamente en el archivo `custom-login-styles.php` dentro de la clase `Custom_Login_Styles`, específicamente en el método `add_custom_styles`.
+- Puedes modificar los colores y estilos de la página de inicio de sesión directamente en el archivo `login-styler.php` dentro de la clase `login-styler`, específicamente en el método `add_custom_styles`.
   
 - Si deseas personalizar aún más el comportamiento del plugin (por ejemplo, agregar una página de opciones en el panel de administración), necesitarás extender el plugin con más características.
 
