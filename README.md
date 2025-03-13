@@ -19,7 +19,7 @@ Plugin de WordPress que permite personalizar la página de inicio de sesión, re
    - Puedes descargar este plugin como un archivo ZIP desde GitHub o clonar el repositorio directamente.
    
 2. **Sube el Plugin a WordPress:**
-   - Extrae el contenido del archivo ZIP y sube la carpeta `custom-login-styles` al directorio `wp-content/plugins/` de tu instalación de WordPress.
+   - Extrae el contenido del archivo ZIP y sube la carpeta `login-styler` al directorio `wp-content/plugins/` de tu instalación de WordPress.
 
 3. **Activa el Plugin:**
    - Ve al panel de administración de WordPress.
@@ -32,7 +32,7 @@ Plugin de WordPress que permite personalizar la página de inicio de sesión, re
 
 ## Personalización
 
-- Puedes modificar los colores y estilos de la página de inicio de sesión directamente en el archivo `login-styler.php` dentro de la clase `login-styler`, específicamente en el método `add_custom_styles`.
+- Puedes modificar los colores y estilos de la página de inicio de sesión directamente en el archivo `login-styler.php` dentro de la clase `Custom_Login_Styles`, específicamente en el método `add_custom_styles`.
   
 - Si deseas personalizar aún más el comportamiento del plugin (por ejemplo, agregar una página de opciones en el panel de administración), necesitarás extender el plugin con más características.
 
